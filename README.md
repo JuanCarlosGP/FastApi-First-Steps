@@ -10,7 +10,6 @@ This repository contains the code for a basic FastAPI project aimed at helping b
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -63,7 +62,3 @@ This project serves as a starting point for those who want to learn FastAPI, a m
 ## Contributing
 
 Contributions are welcome! If you find any issues or would like to suggest improvements, please open an issue or submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
