@@ -1,4 +1,3 @@
-![image](https://github.com/JuanCarlosGP/FastApi-First-Steps/assets/64562942/105e6dac-28a5-47cd-9370-cc5d5e2d173b)![image](https://github.com/JuanCarlosGP/FastApi-First-Steps/assets/64562942/8d2feb5a-eba2-4028-96da-eaa0f2394e98)# FastAPI First Steps
 
 This repository contains the code for a basic FastAPI project aimed at helping beginners get started with FastAPI.
 
