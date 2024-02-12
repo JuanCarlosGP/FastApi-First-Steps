@@ -1,4 +1,4 @@
-# FastAPI First Steps
+![image](https://github.com/JuanCarlosGP/FastApi-First-Steps/assets/64562942/105e6dac-28a5-47cd-9370-cc5d5e2d173b)![image](https://github.com/JuanCarlosGP/FastApi-First-Steps/assets/64562942/8d2feb5a-eba2-4028-96da-eaa0f2394e98)# FastAPI First Steps
 
 This repository contains the code for a basic FastAPI project aimed at helping beginners get started with FastAPI.
 
@@ -59,9 +59,10 @@ This project serves as a starting point for those who want to learn FastAPI, a m
 
 2. Access the API at `http://localhost:8000` in your web browser or API client.
 
-## Preview
+## Preview 
 
-  <img src="https://cdn.discordapp.com/attachments/880375695518363668/1206613257784139907/image.png?ex=65dca52a&is=65ca302a&hm=af6564a24342f7af96de915cc8a5a23cf214c71f481bb845153be3a19d1b0539&" max-width="100%" height=auto alt="Example"> 
+  <img src="https://cdn.discordapp.com/attachments/880375695518363668/1206613257784139907/image.png?ex=65dca52a&is=65ca302a&hm=af6564a24342f7af96de915cc8a5a23cf214c71f481bb845153be3a19d1b0539&" max-width="100%" height=auto alt="Example">
+  <img src="https://cdn.discordapp.com/attachments/880375695518363668/1206613687398436915/image.png?ex=65dca590&is=65ca3090&hm=1ca2eb946f1766f0e4269036fad03d838875d68000c2005bdbb5fe74e681f0f4&" max-width="100%" height=auto alt="Example"> 
 
 ## Contributing
 
