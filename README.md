@@ -59,6 +59,10 @@ This project serves as a starting point for those who want to learn FastAPI, a m
 
 2. Access the API at `http://localhost:8000` in your web browser or API client.
 
+## Preview
+
+  <img src="https://cdn.discordapp.com/attachments/880375695518363668/1206613257784139907/image.png?ex=65dca52a&is=65ca302a&hm=af6564a24342f7af96de915cc8a5a23cf214c71f481bb845153be3a19d1b0539&" max-width="100%" height=auto alt="Example"> 
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or would like to suggest improvements, please open an issue or submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
